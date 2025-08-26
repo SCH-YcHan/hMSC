@@ -15,4 +15,4 @@ Workstation: Anaconda3
 ```
 
 ## Preprocessing
-![Han et al_Fig 1.tif](https://github.com/user-attachments/files/21982486/Han.et.al_Fig.1.tif)
+![Image](https://github.com/user-attachments/assets/f5d293ba-3597-448a-ab3e-4c5f44262cb1)
