@@ -16,3 +16,6 @@ Workstation: Anaconda3
 
 ## Preprocessing
 ![fig1](https://github.com/user-attachments/assets/6f2f4ba6-e5af-4f0c-a0f3-7e3f69a0045e)
+
+## Partial Swap
+![fig2](https://github.com/user-attachments/assets/64454127-8897-48e8-abec-b9e14a56ded0)
