@@ -1,7 +1,7 @@
 # AdhGen
 AdhGen: Optimization of focal adhesion morphology in human mesenchymal stem cells using a genetic algorithm
 
-## Dataset info
+## Dataset
 https://huggingface.co/datasets/SCH-YcHan/hMSC
 
 ## Env setting (Local)
